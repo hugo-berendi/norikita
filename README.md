@@ -32,7 +32,7 @@ $ omf install norikita
 
 # License
 
-[MIT][mit] © [Hugo Berendi][author] et [al][contributors]
+[MIT][mit] © [Hugo Berendi][author] and [others][contributors]
 
 
 [mit]:            https://opensource.org/licenses/MIT
